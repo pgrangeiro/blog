@@ -4,5 +4,5 @@ export const AppConfig = {
 	description: 'Boilerplate built with Astro and Tailwind CSS',
 	author: 'Nicolas',
 	locale_region: 'de-en',
-	locale: 'en'
+	locale: 'en',
 };
