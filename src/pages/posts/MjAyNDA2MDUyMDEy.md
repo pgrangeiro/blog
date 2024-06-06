@@ -20,7 +20,7 @@ To start an empty project you have to type:
 ```bash
 npm create astro@latest
 ```
-![image](/public/posts/MjAyNDA2MDUyMDEy-1.png)
+![image](posts/MjAyNDA2MDUyMDEy-1.png)
 
 And complete the prompt steps. After that, you just have to run the application.
 ```bash
@@ -28,7 +28,7 @@ npm run dev
 ```
 
 The main page will show you instructions how you can customize your website. If you choose the blog template option, it will be like the image bellow. 
-![image](/public/posts/MjAyNDA2MDUyMDEy-2.png)
+![image](posts/MjAyNDA2MDUyMDEy-2.png)
 
 ### Components
 In case of having frontend experience, you can start to customize and create new components. You can use your prefered UI framework to do that or just start coding __astro components__. You might notice the empty project you created there is a folder called `components` and inside that some `*.astro` files. Let's take a look into `src/components/Header.astro`.
