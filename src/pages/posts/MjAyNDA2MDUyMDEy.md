@@ -4,13 +4,13 @@ title: "How to create a static site using Astro"
 pubDate: 2024-06-05
 description: "How to create a static site using Astro"
 author: "pgrangeiro"
-excerpt: "Lately, I have been looking for a new way to writing about technology again. I had used a couple of platforms to do that in the past but I kindly prefer to use static content tools. Furthermore, media sharing and content platform services come and go, signatures and licenses can change, and I would like to have the minimum control about my notes. For me, that is the main reason about writing: having a place where I can search, review and rethink ideas without wondering if the content will be lost in the future or will be used for AI training. That said, I wrote this article about how to create static sites using Astro. A tool that I discovered yesterday, and 5 minutes later this new blog was born. Easy as it."
+excerpt: "Lately, I have been looking for a new way to writing about technology again. I had used a couple of platforms to do that in the past but I kindly prefer to use static content tools. Furthermore, media sharing and content platform services come and go, signatures and licenses can change, and I would like to have at least the minimum control about my notes. That said, I wrote this article about how to create static sites using Astro. A tool that I discovered yesterday, and 5 minutes later this new blog was born. Easy as it."
 image:
   src:
   alt:
 tags: ["software", "development", "astro"]
 ---
-Lately, I have been looking for a new way to writing about technology again. I had used a couple of platforms to do that in the past but I kindly prefer to use static content tools. Furthermore, media sharing and content platform services come and go, signatures and licenses can change, and I would like to have the minimum control about my notes. For me, that is the main reason about writing: having a place where I can search, review and rethink ideas without wondering if the content will be lost in the future or will be used for AI training. That said, I wrote this article about how to create static sites using Astro. A tool that I discovered yesterday, and 5 minutes later this new blog was born. Easy as it.
+Lately, I have been looking for a new way to writing about technology again. I had used a couple of platforms to do that in the past but I kindly prefer to use static content tools. Furthermore, media sharing and content platform services come and go, signatures and licenses can change, and I would like to have at least the minimum control about my notes. That said, I wrote this article about how to create static sites using Astro. A tool that I discovered yesterday, and 5 minutes later this new blog was born. Easy as it.
 
 ## Astro
 
