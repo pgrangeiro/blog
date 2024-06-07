@@ -22,4 +22,10 @@ const { frontmatter } = Astro.props;
 		<PostContent><slot /></PostContent>
 	</div>
 </Base>
-
+<style is:global>
+	p>img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto
+	}
+</style>
